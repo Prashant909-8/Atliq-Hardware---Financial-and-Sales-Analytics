@@ -69,7 +69,7 @@ Major entities include:
 
 The main sales transaction table contains approximately:
 
-**1.4 million+ records**
+**1.2 million+ records**
 
 The data covers multiple countries and sales channels such as:
 
@@ -471,15 +471,6 @@ Through this project, I gained practical experience in:
 
 ---
 
-# 📸 Dashboard Preview
-
-Add your Power BI dashboard screenshot here:
-
-```markdown
-![AtliQ Hardware Dashboard](Images/dashboard.png)
-```
-
----
 
 # 📁 Project Files
 
@@ -492,7 +483,6 @@ The repository contains:
 * Dashboard screenshots
 * Data-model screenshots
 
-> Note: Original company/project datasets may not be included if their redistribution is restricted.
 
 ---
 
